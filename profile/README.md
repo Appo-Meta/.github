@@ -1,4 +1,3 @@
----
 
 # Welcome to Appo 👋  
 
@@ -20,4 +19,3 @@ As we continue to grow and develop, we’ll share updates and opportunities to g
 
 **Thank you for stopping by – let’s create something amazing together.**  
 
---- 
