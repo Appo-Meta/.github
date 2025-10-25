@@ -1,2 +1,7 @@
+# Appo Meta 🤓
 
-# Welcome to Appo 👋  
+Current repositories: 
+- Appo (Flutter)
+- Appo Business (Flutter)
+- Appo Backend (Go, mySQL)
+- Appo Dashboard (Next)
