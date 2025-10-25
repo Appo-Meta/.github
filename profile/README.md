@@ -1,7 +1,7 @@
 # Appo Meta 🤓
 
 Current repositories: 
-- Appo (Flutter)
-- Appo Business (Flutter)
-- Appo Backend (Go, mySQL)
-- Appo Dashboard (Next)
+- [Appo](https://github.com/Appo-Meta/Appo) 
+- [Appo Business ](https://github.com/Appo-Meta/Appo-Business)
+- [Appo Backend](https://github.com/Appo-Meta/appo-backend) 
+- [Appo Meta Dashboard](https://github.com/Appo-Meta/appo-meta-dashboard-2) 
