@@ -2,9 +2,9 @@
 
 ## Current Repositories
 
-| **Repository Name**        | **GitHub Link** | **Web Link** | **Deployment Status** |
-|---------------------------|-----------------|--------------|------------------------|
-| **Appo** | [GitHub](https://github.com/Appo-Meta/Appo) | — | — |
-| **Appo Business** | [GitHub](https://github.com/Appo-Meta/Appo-Business) | — | — |
-| **Appo Backend** | [GitHub](https://github.com/Appo-Meta/appo-backend) | [api.heyappo.me](https://api.heyappo.me) | — |
-| **Appo Meta Dashboard** | [GitHub](https://github.com/Appo-Meta/appo-meta-dashboard-2) | [admin.heyappo.me](https://admin.heyappo.me) | [![Deployment Status](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml) |
+| **Repository Name**        | **GitHub Link** | **Web Link** | **Issues** | **Deployment Status** |
+|---------------------------|-----------------|--------------|-----------|------------------------|
+| **Appo** | [GitHub](https://github.com/Appo-Meta/Appo) | — | ![Issues](https://img.shields.io/github/issues/appo-meta/appo) | — |
+| **Appo Business** | [GitHub](https://github.com/Appo-Meta/Appo-Business) | — | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-business) | — |
+| **Appo Backend** | [GitHub](https://github.com/Appo-Meta/appo-backend) | [api.heyappo.me](https://api.heyappo.me) | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-backend) | — |
+| **Appo Meta Dashboard** | [GitHub](https://github.com/Appo-Meta/appo-meta-dashboard-2) | [admin.heyappo.me](https://admin.heyappo.me) | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-meta-dashboard-2) | [![Deployment Status](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml) |
