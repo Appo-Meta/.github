@@ -8,3 +8,7 @@
 | **Appo Business** | [Repository](https://github.com/Appo-Meta/Appo-Business) | — | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-business) | — |
 | **Appo Backend** | [Repository](https://github.com/Appo-Meta/appo-backend) | [api.heyappo.me](https://api.heyappo.me) | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-backend) | — |
 | **Appo Meta Dashboard** | [Repository](https://github.com/Appo-Meta/appo-meta-dashboard-2) | [admin.heyappo.me](https://admin.heyappo.me) | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-meta-dashboard-2) | [![Deployment Status](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/Appo-Meta/appo-meta-dashboard-2/actions/workflows/deploy.yml) |
+| **Appo Web** | [Repository](https://github.com/Appo-Meta/appo-web) | — | ![Issues](https://img.shields.io/github/issues/appo-meta/appo-business) | — |
+
+
+
